@@ -8,4 +8,5 @@ Prepare component with mini version of the scene with several properties
 - onClick property (passed function trigerred by click action)
 - use canvas, or svg after some research
 
+![ReformFloorPlan](/ReformFloorPlan.JPG)
 ![MiniFloorPlan](/MiniFloorPlan.JPG)
