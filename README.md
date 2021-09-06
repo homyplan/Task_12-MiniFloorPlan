@@ -7,3 +7,5 @@ Prepare component with mini version of the scene with several properties
 - active property (determines which, if any subelement can be highlited when scene is manipulated)
 - onClick property (passed function trigerred by click action)
 - use canvas, or svg after some research
+
+!(/MiniFloorPlan.JPG)
