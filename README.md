@@ -12,7 +12,7 @@ Prepare component with mini version of the scene with several properties
 ![ReformFloorPlan](/ReformFloorPlan_.JPG)
 ![MiniFloorPlan](/kanban.JPG)
 
-```
+```js
 Usage example:
 <MiniFloorPlan
   type="<walls/area/items/doors/windows>"
