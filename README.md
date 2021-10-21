@@ -12,6 +12,7 @@ Prepare component with mini version of the scene with several properties
 ![ReformFloorPlan](/ReformFloorPlan_.JPG)
 ![MiniFloorPlan](/kanban.JPG)
 
+```
 Usage example:
 <MiniFloorPlan
   type="<walls/area/items/doors/windows>"
@@ -21,6 +22,7 @@ Usage example:
   width={<100>}
   height={<100>}
 />
+```
 
 Ideally dimmentions (width/height) should be optional. If there will not be any value (null) width/height should be 100% of the parent/container. This way its size will conform to the parent and can be used in multiple places with different sizes without providing additional data.
 
