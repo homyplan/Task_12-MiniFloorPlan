@@ -19,7 +19,7 @@ Usage example:
   scene={state.scene}
   onMouseEnter={projectActions.setTooltip("Walls - overall area:40m2")}
   onClick={null}
-  width={<100>}
+  width={<100/null>}
   height={<100>}
 />
 ```
