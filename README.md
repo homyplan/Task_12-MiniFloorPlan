@@ -12,6 +12,8 @@ Prepare component with mini version of the scene with several properties
 
 ```js
 Usage example:
+
+
 <MiniFloorPlan
   type="<walls/area/items/doors/windows>"
   scene={state.scene}
