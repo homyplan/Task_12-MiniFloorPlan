@@ -10,7 +10,7 @@ Prepare component with mini version of the scene with several properties
 - use canvas, or svg after research (let me know first about the results of the research to assist decision process on technology)
 
 ![ReformFloorPlan](/ReformFloorPlan_.JPG)
-![MiniFloorPlan](/Kanban.JPG)
+![MiniFloorPlan](/kanban.JPG)
 
 Usage example:
 <MiniFloorPlan
