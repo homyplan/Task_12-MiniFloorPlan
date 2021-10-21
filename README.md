@@ -9,8 +9,6 @@ Prepare component with mini version of the scene with several properties
 - clickAction property (passed function trigerred by click action)
 - use canvas, or svg after research (let me know first about the results of the research to assist decision process on technology)
 
-![ReformFloorPlan](/ReformFloorPlan_.JPG)
-![MiniFloorPlan](/kanban.JPG)
 
 ```js
 Usage example:
@@ -23,6 +21,9 @@ Usage example:
   height={<100>}
 />
 ```
+
+![ReformFloorPlan](/ReformFloorPlan_.JPG)
+![MiniFloorPlan](/kanban.JPG)
 
 Ideally dimmentions (width/height) should be optional. If there will not be any value (null) width/height should be 100% of the parent/container. This way its size will conform to the parent and can be used in multiple places with different sizes without providing additional data.
 
