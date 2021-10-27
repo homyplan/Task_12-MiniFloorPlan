@@ -18,7 +18,7 @@ Usage example:
   type="<null,walls/area/items/doors/windows>"
   interactive="<null,all/walls/area/items/doors/windows>"
   scene={state.scene}
-  active="ar0azfu" // ID of the element
+  active="['ar0azfu','dfrtiek']" // IDs of the element
   onMouseEnter={projectActions.setTooltip("Walls - overall area:40m2")}
   onClick={null}
   width={<100/null>}
