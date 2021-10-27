@@ -18,6 +18,7 @@ Usage example:
   type="<null,walls/area/items/doors/windows>"
   interactive="<null,all/walls/area/items/doors/windows>"
   scene={state.scene}
+  active="ar0azfu"
   onMouseEnter={projectActions.setTooltip("Walls - overall area:40m2")}
   onClick={null}
   width={<100/null>}
