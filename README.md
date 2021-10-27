@@ -16,6 +16,7 @@ Usage example:
 
 <MiniFloorPlan
   type="<walls/area/items/doors/windows>"
+  interactive="<all/walls/area/items/doors/windows>"
   scene={state.scene}
   onMouseEnter={projectActions.setTooltip("Walls - overall area:40m2")}
   onClick={null}
