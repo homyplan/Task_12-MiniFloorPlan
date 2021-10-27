@@ -25,7 +25,7 @@ Usage example:
 />
 ```
 * type="null"
-![MiniFlorPlan_small.png](MiniFlorPlan_small.png)
+![MiniFlorPlan_small.png](MiniFloorPlan_small.png)
 * type="areas"
 ![MiniFlorPlan_areas.png](MiniFlorPlan_areas.png)
 * type="walls"
