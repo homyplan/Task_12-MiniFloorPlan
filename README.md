@@ -24,6 +24,14 @@ Usage example:
   height={<100>}
 />
 ```
+* type="null"
+![MiniFlorPlan_small.png](MiniFlorPlan_small.png)
+* type="walls"
+![MiniFlorPlan_walls.png](MiniFlorPlan_walls.png)
+* type="doors"
+![MiniFlorPlan_doors.png](MiniFlorPlan_doors.png)
+* type="windows"
+![MiniFlorPlan_windows.png](MiniFlorPlan_windows.png)
 
 ![ReformFloorPlan](/ReformFloorPlan_.JPG)
 ![MiniFloorPlan](/kanban.JPG)
